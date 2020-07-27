@@ -1,5 +1,18 @@
-### Hi there 👋
+# Hi there 👋
 
+## About Me
+
+My name is Halit Anil Dönmez (or just Halit). I am a full stack developer who loves running, basketball and cycling. 
+
+Due to short attention span I try lots of different stuff. Check them out! :smile:
+
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/halit-anil-donmez/)
+
+Here are some stats btw: 
+
+![Halit's github stats](https://github-readme-stats.vercel.app/api?username=halitanildonmez&count_private=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halitanildonmez&theme=dark)
 <!--
 **halitanildonmez/halitanildonmez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
