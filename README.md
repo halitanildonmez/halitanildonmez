@@ -8,6 +8,8 @@ Due to short attention span I try lots of different stuff. Check them out! :smil
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/halit-anil-donmez/)
 
+Check out my gists: [Gists](https://gist.github.com/halitanildonmez)
+
 Here are some stats btw: 
 
 ![Halit's github stats](https://github-readme-stats.vercel.app/api?username=halitanildonmez&count_private=true&theme=dark)
