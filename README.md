@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+Below you can find what I have created/made over time and take that as a proof of knowledge
+
+- Python:
+  -  [Advent of Code year 2022](https://github.com/halitanildonmez/advent-of-code-2022/tree/main/2022)
+  -  [A Star pathfinder with visualization of path found](https://github.com/halitanildonmez/AStarPathfinder_Python)
+  -  [Sudoku solver with GUI](https://github.com/halitanildonmez/sudoku_solver)
+- Java:
+  -  I work with java currently but wrote a [ray tracer](https://github.com/halitanildonmez/raytracer_weekend) based on "Ray Tracing in One Weekend"
+  -  I contributed to [DBeaver](https://github.com/dbeaver/dbeaver) [Junit5](https://github.com/junit-team/junit5) [AsciiDoctor](https://github.com/asciidoctor/asciidoctor) and [Google Blockly](https://github.com/google/blockly)
+-  C++
+   - I solved lots of programming challenges [here](https://github.com/halitanildonmez/CodingPractices) also have experience with CUDA which you can read [here](https://halitanildonmez.wordpress.com/portfolio/cuda-path-tracing/)
+
 <!--
 **halitanildonmez/halitanildonmez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
