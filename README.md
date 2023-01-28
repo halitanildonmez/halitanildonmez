@@ -4,6 +4,8 @@ Below you can find what I have created/made over time and take that as a proof o
 - Kaggle:
   - [Classification on Titanic data](https://github.com/halitanildonmez/kaggle_notebooks/blob/main/binary-classification-with-titanic.ipynb)
   - [Multiclass Classification with CNN and parameter tuning](https://github.com/halitanildonmez/kaggle_notebooks/blob/main/multiclass-classification-with-mnist.ipynb)
+  - [Surrender Index](https://github.com/halitanildonmez/kaggle_notebooks/blob/main/surrender-index.ipynb)
+  - [Binary classification on imbalanced data](https://github.com/halitanildonmez/kaggle_notebooks/blob/main/nfl-classification-field-goal.ipynb)
 - Python:
   -  [Advent of Code year 2022](https://github.com/halitanildonmez/advent-of-code-2022/tree/main/2022)
   -  [A Star pathfinder with visualization of path found](https://github.com/halitanildonmez/AStarPathfinder_Python)
