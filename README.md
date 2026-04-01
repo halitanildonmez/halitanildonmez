@@ -61,7 +61,6 @@ Competition entries covering classification, regression, and deep learning. Incl
 - 98.5% accuracy on MNIST (CNN)
 - Imbalanced classification with SMOTE
 - Feature engineering from domain knowledge
-- Top 25% Titanic competition ranking
 
 ---
 
