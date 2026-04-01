@@ -2,30 +2,6 @@
 
 **Senior Software Engineer**
 
----
-
-## Machine Learning Focus Areas
-
-**Large Language Models & NLP**
-- Retrieval-Augmented Generation (RAG) systems
-- Text-to-SQL with structured outputs
-- Prompt engineering and chain-of-thought reasoning
-- Local LLM deployment (Ollama, vLLM)
-
-**Production ML Systems**
-- End-to-end ML pipelines
-- Vector databases (ChromaDB, Weaviate)
-- Model serving and deployment
-- Error recovery and self-healing systems
-
-**Classical ML & Deep Learning**
-- Feature engineering and model interpretability
-- Imbalanced classification techniques
-- Computer vision (CNNs)
-- Time-series forecasting
-
----
-
 ## Featured Projects
 
 ### [PDF RAG System](https://github.com/halitanildonmez/rag-python-project)
@@ -37,7 +13,6 @@ Local document Q&A using Llama 3.1, ChromaDB, and sentence-transformers. Complet
 - Zero API costs with local LLM inference
 - Configurable chunking strategies
 - Retry logic for production reliability
-- 800+ lines of modular, type-safe code
 
 ---
 
@@ -102,9 +77,9 @@ C#     (Unity/Game Dev)
 
 **ML/AI Technologies**
 - **LLMs:** Ollama, LangChain, Hugging Face Transformers
-- **Frameworks:** PyTorch, TensorFlow/Keras, scikit-learn
+- **Frameworks:** Spring Boot, PyTorch, TensorFlow/Keras, scikit-learn
 - **Vector DBs:** ChromaDB, Weaviate, Pinecone
-- **MLOps:** Docker, Docker Compose, Git-based versioning
+- **MLOps:** Docker, Docker Compose, Git
 - **Data:** pandas, NumPy, DuckDB, Jupyter
 - **Visualization:** Plotly, Streamlit, matplotlib, seaborn
 
@@ -127,31 +102,8 @@ Contributed to established projects demonstrating collaboration and code quality
 
 ---
 
-## Recent Learning & Certifications
-
-**Currently Working On:**
-- Multi-modal AI (vision + language models)
-- MLOps practices (experiment tracking, model versioning)
-- Transformer architectures and fine-tuning
-- Distributed training and model optimization
-
----
-
-## Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=halitanildonmez&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=halitanildonmez&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## Contact & Links
 
 **GitHub:** [@halitanildonmez](https://github.com/halitanildonmez)
 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/halitanildonmez)
-**Portfolio:** [halitanildonmez.github.io](https://halitanildonmez.github.io)
-**HackerRank:** [View Profile](https://www.hackerrank.com/halitanildonmez)
 
----
-
-**Building the future of AI, one commit at a time.**
