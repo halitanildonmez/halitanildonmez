@@ -31,13 +31,23 @@
 ### [PDF RAG System](https://github.com/halitanildonmez/rag-python-project)
 Local document Q&A using Llama 3.1, ChromaDB, and sentence-transformers. Complete RAG pipeline with Docker deployment.
 
-**Tech:** Python | Ollama | ChromaDB | LangChain | PyMuPDF
+**Tech:** Python | Ollama | ChromaDB | PyMuPDF
 
 **Highlights:**
 - Zero API costs with local LLM inference
 - Configurable chunking strategies
 - Retry logic for production reliability
 - 800+ lines of modular, type-safe code
+
+---
+
+### [Terms of Service RAG System](https://github.com/halitanildonmez/tos-analyzer)
+Terms of Service RAG. Complete pipeline with Docker deployment and local.
+
+**Tech:** Python | Ollama | ChromaDB |  PyMuPDF
+
+**Highlights:**
+- Similar to RAG system but with an interface
 
 ---
 
