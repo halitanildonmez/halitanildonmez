@@ -2,7 +2,7 @@
 
 ## Open Source Contributions
 
-Contributed to established projects demonstrating collaboration and code quality:
+Contributed to established projects:
 
 - **[JUnit5](https://github.com/junit-team/junit5)** - Java testing framework
 - **[DBeaver](https://github.com/dbeaver/dbeaver)** - Universal database tool
