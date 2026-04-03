@@ -48,6 +48,16 @@ Natural language to SQL converter with automatic error recovery. Features intell
 
 ---
 
+### [Ray Tracer in Java](https://github.com/halitanildonmez/raytracer_weekend)
+Java implementation of the ray tracer 
+
+**Tech:** Java
+
+**Highlights:**
+- Based on "Ray Tracing in a weekend"
+
+---
+
 ### [NFL Prediction Models](https://github.com/halitanildonmez/nfl_prediction)
 Multi-season playoff outcome prediction using Elo ratings and ensemble methods. 72% accuracy on test set.
 
