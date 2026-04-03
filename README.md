@@ -1,6 +1,15 @@
-# Hi, I'm Halit Anil Donmez
+# Hi! Welcome to my repo!
 
-**Senior Software Engineer**
+## Open Source Contributions
+
+Contributed to established projects demonstrating collaboration and code quality:
+
+- **[JUnit5](https://github.com/junit-team/junit5)** - Java testing framework
+- **[DBeaver](https://github.com/dbeaver/dbeaver)** - Universal database tool
+- **[Google Blockly](https://github.com/google/blockly)** - Visual programming editor
+- **[AsciiDoctor](https://github.com/asciidoctor/asciidoctor-gradle-plugin)** - Documentation tools
+
+---
 
 ## Featured Projects
 
@@ -90,19 +99,7 @@ C#     (Unity/Game Dev)
 
 ---
 
-## Open Source Contributions
-
-Contributed to established projects demonstrating collaboration and code quality:
-
-- **[JUnit5](https://github.com/junit-team/junit5)** - Java testing framework
-- **[DBeaver](https://github.com/dbeaver/dbeaver)** - Universal database tool
-- **[Google Blockly](https://github.com/google/blockly)** - Visual programming editor
-- **[AsciiDoctor](https://github.com/asciidoctor/asciidoctor-gradle-plugin)** - Documentation tools
-
----
-
 ## Contact & Links
 
-**GitHub:** [@halitanildonmez](https://github.com/halitanildonmez)
 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/halitanildonmez)
 
